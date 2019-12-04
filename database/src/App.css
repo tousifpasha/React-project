@@ -1,0 +1,53 @@
+table
+{
+  height: 100px;
+}
+td,th{
+  border:solid 1px rgb(143, 134, 134);
+  padding:10px ;
+  text-align: center;
+  background-color: rgb(247, 202, 150);
+  width: 200px;
+  height: 30px;
+ 
+}
+
+
+.table-box
+{
+  width:50px;
+}
+
+.userinput{
+  width: 100%;
+}
+
+.input1{
+  border:solid 2px rgb(143, 134, 134);
+  padding:10px ;
+  text-align: left;
+  background-color: lightgray;
+}
+
+
+.input2{
+  border:solid 2px rgb(143, 134, 134);
+  padding:10px ;
+  text-align: left;
+  background-color: lightgreen;
+}
+
+.input3,.search{
+  border:solid 2px rgb(143, 134, 134);
+  padding:10px ;
+  text-align: left;
+  background-color: lightgoldenrodyellow;
+}
+
+
+.submit{
+  border:solid 2px rgb(143, 134, 134);
+  padding:10px ;
+  text-align: left;
+  background-color: red;
+}
